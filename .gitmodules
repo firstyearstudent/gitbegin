@@ -1,0 +1,3 @@
+[submodule "gitbegin"]
+	path = gitbegin
+	url = https://github.com/firstyearstudent/gitbegin.git
